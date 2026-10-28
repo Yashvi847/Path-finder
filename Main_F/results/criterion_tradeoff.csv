@@ -1,0 +1,5 @@
+criterion,travel_time,fare,transfers,expanded
+Fastest,55.08,40.56,2.37,323.9
+Cheapest,65.96,29.58,1.5,211.27
+Fewest transfers,62.67,31.17,1.37,313.87
+Balanced,58.39,32.04,1.67,315.93

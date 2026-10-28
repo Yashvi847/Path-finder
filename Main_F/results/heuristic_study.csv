@@ -1,0 +1,11 @@
+cost_model,heuristic,kind,weight,edges_checked,consistency_violations,worst_violation
+Fastest,Dijkstra,zero,1.0,55260,0,0.0
+Fastest,"A* (0.5x, weak)",euclid,0.5,55260,0,0.0
+Fastest,A* (admissible),euclid,1.0,55260,0,0.0
+Fastest,A* (Manhattan),manhattan,1.0,55260,107,1.2668
+Fastest,"A* (2x, inadmissible)",euclid,2.0,55260,271,4.5734
+Balanced,Dijkstra,zero,1.0,55260,0,0.0
+Balanced,"A* (0.5x, weak)",euclid,0.5,55260,0,0.0
+Balanced,A* (admissible),euclid,1.0,55260,0,0.0
+Balanced,A* (Manhattan),manhattan,1.0,55260,55,0.8716
+Balanced,"A* (2x, inadmissible)",euclid,2.0,55260,354,5.2694
